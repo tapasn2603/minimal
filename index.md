@@ -81,4 +81,3 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 <center><img src="images/human_activity.jpg"/></center>
 
-
